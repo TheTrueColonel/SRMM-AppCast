@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ShinRyuModManager-CE</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>ShinRyuModManager-CE 1.1.12</title>
+      <pubDate>Sun, 02 Nov 2025 11:44:41 -06:00</pubDate>
+      <sparkle:version>1.1.12</sparkle:version>
+      <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.1.12/ShinRyuModManager-CE-Linux1.1.12.zip" sparkle:version="1.1.12" sparkle:shortVersionString="1.1.12" length="43946332" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="CNgoykPRoCjpF5lGQ7xUE9J5erR3JWbxqv3kIMg72VWuVhAUxfDWzaVu1rU4VC0clcczzYGCvbK13/gaMHrPBA==" />
+    </item>
+  </channel>
+</rss>
