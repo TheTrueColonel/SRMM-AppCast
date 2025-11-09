@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>ShinRyuModManager.exe 1.2.0-windows</title>
-      <pubDate>Sun, 09 Nov 2025 11:19:37 -06:00</pubDate>
+      <pubDate>Sun, 09 Nov 2025 11:35:03 -06:00</pubDate>
       <sparkle:version>1.2.0-windows</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.0/ShinRyuModManager-CE-Windows1.2.0.zip" sparkle:version="1.2.0-windows" sparkle:shortVersionString="1.2.0" length="46565454" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="Kj4teNJe/HnhmVYDwJNwNn6+/cx8idJjmTKAGwxmCgRWfi7Vd6gyFuXkKNRDlYyW8aESyPka/vEdZXFLwGFvDQ==" />
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.0/ShinRyuModManager-CE-Windows1.2.0.zip" sparkle:version="1.2.0-windows" sparkle:shortVersionString="1.2.0" length="46565045" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="lQBhcfyUNkNK2p5ltVUILYkiOTplfwaTEQ4uJCVNlg7oCSvH7zaDSADFDk0CbmRUZs/6jUAhNOEVUVr2rgc8CQ==" />
     </item>
   </channel>
 </rss>
