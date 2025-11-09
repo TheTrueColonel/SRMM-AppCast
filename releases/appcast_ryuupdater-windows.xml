@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>RyuUpdater</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>RyuUpdater 1.0.0</title>
+      <pubDate>Sun, 09 Nov 2025 10:26:35 -06:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Windows1.0.0.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="5714515" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="hw5rZ4U3bPIWjyO13C/pMSDR/dZtfELZEpR9ZGGiiQoPljHR75jm1f+W557sAuSnt6lRXWK5caGmA5FFrU9cBQ==" />
+    </item>
+  </channel>
+</rss>
