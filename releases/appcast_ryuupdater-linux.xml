@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>RyuUpdater 1.0.0</title>
-      <pubDate>Sun, 09 Nov 2025 11:14:21 -06:00</pubDate>
+      <pubDate>Sun, 09 Nov 2025 11:19:43 -06:00</pubDate>
       <sparkle:version>1.0.0</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Linux-Latest.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="5804248" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="jwEGoXSUKTmBp0IJsTbNe1pPUvsKm9Z6OKFVOKAxo6ho/sAGnKXvM6FgNnK8ZNBqIv3s4H6emnEatsGbH6HfCQ==" />
+      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Linux-Latest.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="5804248" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="f7lAgjIiMsJLickbUg3W6c/ZhlTj4KHv1iIA24ud+yBTztjA71E7DWdBMMCB9tdJC7q4TIGqrGn8qhktUqM5Bg==" />
     </item>
   </channel>
 </rss>
