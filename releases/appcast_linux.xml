@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>ShinRyuModManager-CE 1.2.0-linux</title>
-      <pubDate>Sat, 08 Nov 2025 12:37:38 -06:00</pubDate>
+      <pubDate>Sun, 09 Nov 2025 10:22:18 -06:00</pubDate>
       <sparkle:version>1.2.0-linux</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.0/ShinRyuModManager-CE-Linux1.2.0.zip" sparkle:version="1.2.0-linux" sparkle:shortVersionString="1.2.0" length="44305747" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="/AK/yHZ9igQMLWFDEOc9vGNNGbc5d0hNOsR6F5HNp1DbtAaO+/zJqNTbDTvhOleoW7djmFnGaUCLE4cHafFBBA==" />
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.0/ShinRyuModManager-CE-Linux1.2.0.zip" sparkle:version="1.2.0-linux" sparkle:shortVersionString="1.2.0" length="44306758" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="LJXlPvy0i+oJjLaGeuVzl2H0WgJsh+WevYByhUuhJkc5AQMBj1Thj5BsuyGrlcPCr85NkCniPVXOuO5yW7/ICg==" />
     </item>
   </channel>
 </rss>
