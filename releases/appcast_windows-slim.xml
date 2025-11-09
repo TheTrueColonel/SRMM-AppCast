@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>ShinRyuModManager.exe 1.2.0-windows-slim</title>
-      <pubDate>Sun, 09 Nov 2025 11:48:21 -06:00</pubDate>
-      <sparkle:version>1.2.0-windows-slim</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.0/ShinRyuModManager-CE-Windows-Slim1.2.0.zip" sparkle:version="1.2.0-windows-slim" sparkle:shortVersionString="1.2.0" length="17123735" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="F1Y3CZOl4Jt+Uz/1QFWSqsUGmvFIpRmdIxt1yT/cvJLOYZgwpzF584IQNbZMS/Onjy0+2Tk+wmtuihI94243Cw==" />
+      <title>ShinRyuModManager.exe 1.2.1-windows-slim</title>
+      <pubDate>Sun, 09 Nov 2025 12:21:11 -06:00</pubDate>
+      <sparkle:version>1.2.1-windows-slim</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.2.1/ShinRyuModManager-CE-Windows-Slim1.2.1.zip" sparkle:version="1.2.1-windows-slim" sparkle:shortVersionString="1.2.1" length="17123808" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="j5Fj++BW44MbtzusoxY7GyZUF3wnPDF9UEYAjcsxujUhUzlYIqoYd8UFJupW7GXx9dM/xICmEzv5Yu+Nw0FrAQ==" />
     </item>
   </channel>
 </rss>
