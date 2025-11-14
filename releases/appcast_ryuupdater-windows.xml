@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>RyuUpdater 1.0.1</title>
-      <pubDate>Tue, 11 Nov 2025 07:48:01 -06:00</pubDate>
-      <sparkle:version>1.0.1</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Windows-Latest.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="5716607" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="6PsbM6gX+ZS3P1Z+Fxep5wHNojTaEZl9LDL1rT6nu2rysI2gScKORefePha0VFp4yNjxHoHPjB6u4VAbrWxUAA==" />
+      <title>RyuUpdater 1.0.2</title>
+      <pubDate>Thu, 13 Nov 2025 20:35:10 -06:00</pubDate>
+      <sparkle:version>1.0.2</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Windows-Latest.zip" sparkle:version="1.0.2" sparkle:shortVersionString="1.0.2" length="6095398" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="twbyZN6HOLsZmAZ6Okiv5RgAd2lFokOMLntMTkehxSF7ujqvWh/cHmlC6+LyaHRYDvJ4a5e8rc6NDgSA5ucxAg==" />
     </item>
   </channel>
 </rss>
