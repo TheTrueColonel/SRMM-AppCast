@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>RyuUpdater 1.0.2</title>
-      <pubDate>Sat, 22 Nov 2025 12:59:45 -06:00</pubDate>
-      <sparkle:version>1.0.2</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Linux-Latest.zip" sparkle:version="1.0.2" sparkle:shortVersionString="1.0.2" length="6414597" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="oRqD5VCNPBGb1WnDHICMDS0+PLAUq2NdYMwqSVP8Hl+5qHqK6bNnD4uVRHAbRCp9NHuN9d5fIQBIUR77NLL+Bw==" />
+      <title>RyuUpdater 1.0.1</title>
+      <pubDate>Sun, 30 Nov 2025 22:18:21 +00:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Linux-Latest.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="6256762" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="Y4Jg5SRwYMWuO9rLuemq725WeJ+27wT69p6s6lXzy1d91BC/wMus1E+4az/rHismEdYUx0P+65nS9IEowGZXDQ==" />
     </item>
   </channel>
 </rss>
