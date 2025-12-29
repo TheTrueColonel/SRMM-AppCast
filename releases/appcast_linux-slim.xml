@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>ShinRyuModManager-CE 1.3.8-linux-slim</title>
-      <pubDate>Sat, 20 Dec 2025 00:27:30 +00:00</pubDate>
-      <sparkle:version>1.3.8-linux-slim</sparkle:version>
-      <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.3.8/ShinRyuModManager-CE-Linux-Slim-1.3.8.zip" sparkle:version="1.3.8-linux-slim" sparkle:shortVersionString="1.3.8" length="14857757" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="b0Opf2jVcMfK701gLzJOnEqRWulP1R+SgLzP/1U3xKULBt59aduK08JGFsFyCFL7WFBWSP2pRoavlp9WrfszAg==" />
+      <title>ShinRyuModManager-CE 1.3.9-test-linux-slim</title>
+      <pubDate>Mon, 29 Dec 2025 23:22:03 +00:00</pubDate>
+      <sparkle:version>1.3.9-test-linux-slim</sparkle:version>
+      <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.3.9-test/ShinRyuModManager-CE-Linux-Slim-1.3.9-test.zip" sparkle:version="1.3.9-test-linux-slim" sparkle:shortVersionString="1.3.9" length="14857635" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="KuNHhBEs/UPZPDPB/j2/uDqAxbrUft2+syyifXQnpatK9m8jkMULEvWxkC9D+sYlAK/vDCwFT9W0/GIAmCbZCQ==" />
     </item>
   </channel>
 </rss>
