@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>ShinRyuModManager.exe 1.4.1-windows</title>
-      <pubDate>Wed, 21 Jan 2026 23:23:32 +00:00</pubDate>
-      <sparkle:version>1.4.1-windows</sparkle:version>
-      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.4.1/ShinRyuModManager-CE-Windows-1.4.1.zip" sparkle:version="1.4.1-windows" sparkle:shortVersionString="1.4.1" length="47845016" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="Bb83BqiL6hInDTA9dMjpZ4gqvEiMS/p2lMBVCHbwd+ajj4jgp8kCYEgQ001qotueySiG8rCJVvVvipvU+1qYBw==" />
+      <title>ShinRyuModManager.exe 1.4.2-windows</title>
+      <pubDate>Sat, 24 Jan 2026 15:13:02 +00:00</pubDate>
+      <sparkle:version>1.4.2-windows</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.4.2/ShinRyuModManager-CE-Windows-1.4.2.zip" sparkle:version="1.4.2-windows" sparkle:shortVersionString="1.4.2" length="47848231" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="GqccfKJ7ZyNFCGandpMByCEDeQEv6g2TDtq4X9jgSMYwwExnyLODuLL9U2uNmcZKa29pvYAJ0yZJx6e4Zud5Aw==" />
     </item>
   </channel>
 </rss>
