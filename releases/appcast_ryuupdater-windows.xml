@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>RyuUpdater.exe 1.0.1</title>
-      <pubDate>Wed, 22 Apr 2026 00:57:04 +00:00</pubDate>
+      <pubDate>Sun, 26 Apr 2026 03:12:55 +00:00</pubDate>
       <sparkle:version>1.0.1</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Windows-Latest.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="5950420" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="sjVW9hl6yO3kLKSWfx1zjE7g5r/icXRDKeffGsQoXQGY8p8DsUsS0oOosY6nMOYHWGG8KecBp7bBxleGxr+XAA==" />
+      <enclosure url="https://thetruecolonel.github.io/SRMM-AppCast/updater/RyuUpdater-Windows-Latest.zip" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="5950425" sparkle:os="windows" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="UCM08qySobSTcBPkaXY2hpKzDL7IGUuvQoUVDF7k0dVoRGBaA1gdDsFJbJIT51XaMyUPVwV4JokhvJu6tISzAg==" />
     </item>
   </channel>
 </rss>
