@@ -5,11 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>ShinRyuModManager-CE 1.6.0-linux</title>
-      <pubDate>Wed, 06 May 2026 02:16:58 +00:00</pubDate>
-      <sparkle:version>1.6.0-linux</sparkle:version>
-      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.6.0/ShinRyuModManager-CE-Linux-1.6.0.zip" sparkle:version="1.6.0-linux" sparkle:shortVersionString="1.6.0" length="48718744" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="s6GMzOrcRqipEKkIVjKxghenVrvcYZvobhbEakfNxCZNn37KPthXXtiVCtTQGdTPjraCqu5ty8ag5efvFUpNDw==" />
+      <title>ShinRyuModManager-CE 1.6.1-linux</title>
+      <pubDate>Fri, 15 May 2026 23:09:41 +00:00</pubDate>
+      <sparkle:version>1.6.1-linux</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/TheTrueColonel/ShinRyuModManager-CE/releases/download/v1.6.1/ShinRyuModManager-CE-Linux-1.6.1.zip" sparkle:version="1.6.1-linux" sparkle:shortVersionString="1.6.1" length="48680425" sparkle:os="linux" type="application/zip" sparkle:criticalUpdate="false" sparkle:edSignature="gre/1uJcnBb2CqgiI+U/gsIaF0l8LYeLWlkM1DE7g1PGF0o62lmAOb27I091EpO0zCV7ygpogGKXODsquS/VDw==" />
     </item>
   </channel>
 </rss>
